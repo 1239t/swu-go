@@ -1,4 +1,4 @@
-module github.com/iniwex5/swu-go
+module github.com/1239t/swu-go
 
 go 1.24.0
 

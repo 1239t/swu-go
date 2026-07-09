@@ -11,8 +11,8 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/logger"
 )
 
 type SocketManager struct {

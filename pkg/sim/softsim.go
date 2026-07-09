@@ -1,7 +1,7 @@
 package sim
 
 import (
-	"github.com/iniwex5/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/crypto"
 )
 
 // SoftSIM 软件 SIM 实现 (使用 Milenage 算法)

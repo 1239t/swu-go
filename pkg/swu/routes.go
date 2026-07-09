@@ -7,7 +7,7 @@ import (
 	"math/bits"
 	"net"
 
-	"github.com/iniwex5/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/ikev2"
 )
 
 func isFullIPv4Range(ts *ikev2.TrafficSelector) bool {

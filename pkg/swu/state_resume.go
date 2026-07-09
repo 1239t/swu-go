@@ -7,9 +7,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/iniwex5/swu-go/pkg/crypto"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/logger"
 )
 
 // performSessionResumption 执行 RFC 5723 快速恢复握手

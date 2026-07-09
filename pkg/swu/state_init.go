@@ -11,9 +11,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/iniwex5/swu-go/pkg/crypto"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/logger"
 )
 
 func detectOutboundIPv4(remoteIP net.IP, remotePort uint16) (net.IP, error) {

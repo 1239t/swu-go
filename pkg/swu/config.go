@@ -1,7 +1,7 @@
 package swu
 
 import (
-	"github.com/iniwex5/swu-go/pkg/sim"
+	"github.com/1239t/swu-go/pkg/sim"
 )
 
 type Config struct {

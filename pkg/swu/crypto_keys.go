@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"github.com/iniwex5/swu-go/pkg/crypto"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/ikev2"
 )
 
 // GenerateIKESAKeys 根据 RFC 7296 2.13 和 2.14 生成密钥

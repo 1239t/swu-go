@@ -14,12 +14,12 @@ import (
 
 	"github.com/iniwex5/netlink"
 	"github.com/iniwex5/netlink/nl"
-	"github.com/iniwex5/swu-go/pkg/crypto"
-	"github.com/iniwex5/swu-go/pkg/driver"
-	"github.com/iniwex5/swu-go/pkg/eap"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/ipsec"
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/driver"
+	"github.com/1239t/swu-go/pkg/eap"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/ipsec"
+	"github.com/1239t/swu-go/pkg/logger"
 	"go.uber.org/zap"
 )
 

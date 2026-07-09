@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/iniwex5/swu-go/pkg/crypto"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/ipsec"
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/ipsec"
+	"github.com/1239t/swu-go/pkg/logger"
 )
 
 // RekeyChildSA 执行 CHILD_SA 密钥轮换 (CREATE_CHILD_SA 交换)

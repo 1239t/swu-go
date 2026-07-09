@@ -3,7 +3,7 @@ package swu
 import (
 	"errors"
 
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/logger"
 )
 
 var ErrCookieRequired = errors.New("需要重新发送带 COOKIE 的 IKE_SA_INIT")

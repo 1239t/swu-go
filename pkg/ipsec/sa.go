@@ -4,7 +4,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/iniwex5/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/crypto"
 )
 
 type SecurityAssociation struct {

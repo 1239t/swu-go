@@ -7,10 +7,10 @@ import (
 	"net"
 
 	"github.com/iniwex5/netlink"
-	"github.com/iniwex5/swu-go/pkg/driver"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/ipsec"
-	"github.com/iniwex5/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/driver"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/ipsec"
+	"github.com/1239t/swu-go/pkg/logger"
 )
 
 const cookie2Size = 16

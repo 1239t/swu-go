@@ -10,12 +10,12 @@ import (
 	"net"
 	"time"
 
-	"github.com/iniwex5/swu-go/pkg/crypto"
-	"github.com/iniwex5/swu-go/pkg/eap"
-	"github.com/iniwex5/swu-go/pkg/ikev2"
-	"github.com/iniwex5/swu-go/pkg/ipsec"
-	"github.com/iniwex5/swu-go/pkg/logger"
-	"github.com/iniwex5/swu-go/pkg/sim"
+	"github.com/1239t/swu-go/pkg/crypto"
+	"github.com/1239t/swu-go/pkg/eap"
+	"github.com/1239t/swu-go/pkg/ikev2"
+	"github.com/1239t/swu-go/pkg/ipsec"
+	"github.com/1239t/swu-go/pkg/logger"
+	"github.com/1239t/swu-go/pkg/sim"
 )
 
 func (s *Session) buildIKEAuthInitPayloads() ([]ikev2.Payload, error) {
